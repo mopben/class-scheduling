@@ -1,1 +1,1 @@
-# Class-Planning-Project
+# Class scheduling project
