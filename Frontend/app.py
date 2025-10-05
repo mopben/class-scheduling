@@ -51,16 +51,17 @@ with tab2:
 			st.info("Course recommendations will appear here.")
 			# box container
 			st.markdown('<div class="recommendation-box">', unsafe_allow_html=True)
-			for i, class_obj in enumerate(data):
-				for _, details in class_obj.items():
-					st.markdown('<div class="recommendation-item">', unsafe_allow_html=True)
-					st.markdown(f"### {details['title']}")
-					st.write(details['description'])
-					st.write("Schedule:")
-					for sched in details['Schedule']:
-						st.write(f"- {sched[0]} to {sched[1]}")
-					st.markdown('<hr class="recommendation-divider">', unsafe_allow_html=True)
-					st.markdown('</div>', unsafe_allow_html=True)
-			st.markdown('</div>', unsafe_allow_html=True)
+			with st.container(height=500):
+				for i, class_obj in enumerate(data):
+					for _, details in class_obj.items():
+						st.markdown('<div class="recommendation-item">', unsafe_allow_html=True)
+						st.markdown(f"### {details['title']}")
+						st.write(details['description'])
+						st.write("Schedule:")
+						for sched in details['Schedule']:
+							st.write(f"- {sched[0]} to {sched[1]}")
+						st.markdown('<hr class="recommendation-divider">', unsafe_allow_html=True)
+						st.markdown('</div>', unsafe_allow_html=True)
+				st.markdown('</div>', unsafe_allow_html=True)
 		else:
 			st.warning("Please enter your schedule details.")
