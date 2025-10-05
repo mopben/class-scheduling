@@ -1,0 +1,66 @@
+course_code,course_title,description,days,start_time,end_time,GE,difficulty
+COM SCI 188,Ethics in Artificial Intelligence,"Explores ethical implications of AI including privacy, bias, and accountability.",['MWF'],13:00,14:00,Society and Culture,3
+LING 20,Introduction to Linguistic Analysis,"Structure of human language: phonetics, morphology, syntax, semantics.",['TuTh'],15:00,16:30,Foundations of Scientific Inquiry,2
+COG SCI 1,Introduction to Cognitive Science,"Overview of cognitive processes, perception, memory, and language.",['TuTh'],09:00,10:30,Science & Society,2
+PHYSICS 1A,Physics for Scientists and Engineers: Mechanics,An introductory course covering the fundamentals of motion and forces.,['F'],08:00,09:00,Scientific Inquiry,5
+PHYS 155,Intro to Anthropology,An introductory course covering the fundamentals of creative design.,['Th'],16:00,17:30,Science,5
+EE 46,Intro to Art History,An introductory course covering the fundamentals of data analysis.,['M'],17:00,18:30,Arts,5
+COG SCI 169,Intro to AI,An introductory course covering the fundamentals of cognitive systems.,['MWF'],10:00,11:00,Foundations of Scientific Inquiry,2
+CHEM 182,Intro to Neuroscience,An introductory course covering the fundamentals of global societies.,['M'],17:00,18:30,Foundations of Scientific Inquiry,1
+EE 136,Intro to Music Theory,An introductory course covering the fundamentals of quantitative reasoning.,['MWF'],16:00,17:30,Foundations of Scientific Inquiry,4
+CHEM 122,Intro to Neuroscience,An introductory course covering the fundamentals of creative design.,['F'],16:00,17:30,Arts,4
+INFO 100,Intro to Networks,An introductory course covering the fundamentals of creative design.,['M'],16:00,17:30,Humanities,5
+ENG 77,Intro to Environmental Science,An introductory course covering the fundamentals of global societies.,['MW'],10:00,11:00,Foundations of Scientific Inquiry,2
+ASTR 12,Physics in the Universe,An introductory course covering planetary motion and cosmic catastrophes.,['MW'],10:00,11:00,Foundations of Scientific Inquiry,2
+ECON 134,Intro to Ethics,An introductory course covering the fundamentals of quantitative reasoning.,['MW'],12:00,13:00,Arts,1
+DESMA 8,Intro to Psychology,An introductory course covering the fundamentals of machine learning.,['M'],10:00,11:00,Arts,2
+MUSIC 176,Intro to AI,An introductory course covering the fundamentals of human interaction.,['Tu'],11:00,12:30,Society and Culture,5
+INFO 47,Intro to Psychology,An introductory course covering the fundamentals of global societies.,['MWF'],11:00,12:30,Science,3
+STAT 7,Intro to Communication,An introductory course covering the fundamentals of global societies.,['MWF'],09:30,11:00,Science & Society,5
+SPAN 133,Intro to Statistics,An introductory course covering the fundamentals of cognitive systems.,['M'],10:00,11:00,Science,3
+MUSIC 150,Intro to AI,An introductory course covering the fundamentals of language structure.,['MWF'],11:00,12:30,Science & Society,3
+ANTHRO 197,Intro to Ethics,An introductory course covering the fundamentals of human interaction.,['MWF'],16:00,17:30,Social Analysis,5
+EE 155,Intro to Philosophy,An introductory course covering the fundamentals of human interaction.,['TuTh'],09:00,10:00,Science,4
+ASTR 4,Introduction to Astrophysics,An introductory course covering solar system formation and the geology of terrestrial planets/planetary atmospheres.,['TuTh'],09:00,10:00,Science,4
+MUSIC 125,Intro to Cognitive Systems,An introductory course covering the fundamentals of global societies.,['Tu'],13:00,14:00,Arts,5
+COM SCI 185,Intro to Anthropology,An introductory course covering the fundamentals of philosophical thought.,['MWF'],12:00,13:00,Quantitative Reasoning,1
+SOC 83,Intro to Environmental Science,An introductory course covering the fundamentals of global societies.,['F'],10:00,11:00,Humanities,5
+EE 32,Intro to Programming,An introductory course covering the fundamentals of philosophical thought.,['M'],08:00,09:00,Humanities,1
+LING 32,Intro to Cognitive Systems,An introductory course covering the fundamentals of language structure.,['Tu'],15:00,16:30,Technical Elective,3
+ENG 165,Intro to Statistics,An introductory course covering the fundamentals of creative design.,['TuTh'],13:00,14:00,Upper Division,3
+POLI SCI 107,Intro to Design,An introductory course covering the fundamentals of environmental studies.,['Th'],17:00,18:30,Upper Division,4
+HIST 43,Intro to Programming,An introductory course covering the fundamentals of global societies.,['M'],15:00,16:30,Science & Society,1
+PHIL 147,Intro to Art History,An introductory course covering the fundamentals of philosophical thought.,['Th'],14:00,15:00,Foundations of Scientific Inquiry,2
+STAT 170,Intro to Neuroscience,An introductory course covering the fundamentals of quantitative reasoning.,['F'],10:00,11:00,Science & Society,5
+SOC 59,Intro to Networks,An introductory course covering the fundamentals of environmental studies.,['MWF'],13:00,14:00,Quantitative Reasoning,5
+LING 164,Intro to Anthropology,An introductory course covering the fundamentals of human interaction.,['TuTh'],14:00,15:00,Social Analysis,2
+EE 71,Intro to Art History,An introductory course covering the fundamentals of data analysis.,['F'],09:00,10:00,Upper Division,4
+HIST 78,Intro to Economics,An introductory course covering the fundamentals of human interaction.,['Th'],11:00,12:30,Society and Culture,1
+EE 105,Intro to Cognitive Systems,An introductory course covering the fundamentals of data analysis.,['Th'],14:00,15:00,Quantitative Reasoning,3
+ENG 184,Intro to Statistics,An introductory course covering the fundamentals of creative design.,['TuTh'],14:00,15:00,Social Analysis,4
+ANTHRO 186,Intro to Statistics,An introductory course covering the fundamentals of global societies.,['MWF'],15:00,16:30,Science,3
+EE 134,Intro to Anthropology,An introductory course covering the fundamentals of creative design.,['M'],13:00,14:00,Technical Elective,5
+ENG 83,Intro to Anthropology,An introductory course covering the fundamentals of data analysis.,['F'],12:00,13:00,Foundations of Scientific Inquiry,3
+PHYS 151,Intro to Ethics,An introductory course covering the fundamentals of creative design.,['F'],14:00,15:00,Science & Society,2
+DESMA 128,Intro to Data Science,An introductory course covering the fundamentals of cognitive systems.,['MWF'],16:00,17:30,Technical Elective,2
+DATA 5,Intro to Psychology,An introductory course covering the fundamentals of philosophical thought.,['Th'],16:00,17:30,Technical Elective,2
+PHYSICS 72,The Physics of Electricity and Magnetism,An introductory course covering the fundamentals of electrodynamics and potential fields.,['M'],08:00,09:00,Scientific Inquiry,3
+ENG 124,Intro to Philosophy,An introductory course covering the fundamentals of cognitive systems.,['M'],11:00,12:30,Quantitative Reasoning,1
+PHYS 75,Intro to Music Theory,An introductory course covering the fundamentals of quantitative reasoning.,['F'],15:00,16:30,Technical Elective,2
+SPAN 145,Intro to Music Theory,An introductory course covering the fundamentals of machine learning.,['TuTh'],09:30,11:00,Technical Elective,2
+ANTHRO 124,Intro to Statistics,An introductory course covering the fundamentals of quantitative reasoning.,['Th'],12:00,13:00,Humanities,5
+MATH 165,Intro to Philosophy,An introductory course covering the fundamentals of creative design.,['MW'],09:00,10:00,Upper Division,2
+CHEM 139,Intro to Communication,An introductory course covering the fundamentals of cognitive systems.,['TuTh'],15:00,16:30,Humanities,1
+ENG 18,Intro to Programming,An introductory course covering the fundamentals of environmental studies.,['M'],16:00,17:30,Quantitative Reasoning,3
+DATA 44,Intro to Communication,An introductory course covering the fundamentals of language structure.,['TuTh'],13:00,14:00,Science & Society,5
+MUSIC 179,Intro to Communication,An introductory course covering the fundamentals of quantitative reasoning.,['Tu'],10:00,11:00,Upper Division,3
+HIST 197,Intro to Cognitive Systems,An introductory course covering the fundamentals of global societies.,['MW'],08:00,09:00,Humanities,5
+SPAN 15,Intro to AI,An introductory course covering the fundamentals of environmental studies.,['Th'],13:00,14:00,Science & Society,5
+CHEM 128,Intro to Anthropology,An introductory course covering the fundamentals of quantitative reasoning.,['M'],17:00,18:30,Science,2
+BIO 85,Intro to Philosophy,An introductory course covering the fundamentals of data analysis.,['MWF'],17:00,18:30,Foundations of Scientific Inquiry,4
+MUSIC 109,Intro to Environmental Science,An introductory course covering the fundamentals of machine learning.,['MW'],17:00,18:30,Society and Culture,1
+LING 163,Intro to Programming,An introductory course covering the fundamentals of environmental studies.,['MWF'],15:00,16:30,Science & Society,5
+PHYSICS 115,Physics 115A: Quantum Mechanics,An advanced undergraduate level course covering the quantum nature of light and the Hilbert spaces & Dirac notation.,['MWF'],11:00,12:30,Technical Elective,4
+GEOG 49,Intro to Programming,An introductory course covering the fundamentals of language structure.,['TuTh'],11:00,12:30,Technical Elective,3
+ART 65,Intro to Economics,An introductory course covering the fundamentals of human interaction.,['TuTh'],16:00,17:30,Technical Elective,4
+ENG 197,Intro to Ethics,An introductory course covering the fundamentals of data analysis.,['TuTh'],14:00,15:00,Humanities,4
