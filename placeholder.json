@@ -1,0 +1,12 @@
+[
+  {
+    "Class 1": {
+      "title": "Introduction to Python",
+      "description": "Learn the basics of Python programming.",
+      "Schedule": [
+        ["12:00 PM", "12:50 PM"],
+        ["1:00 PM", "1:50 PM"]
+      ]
+    }
+  }
+]
