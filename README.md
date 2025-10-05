@@ -29,3 +29,6 @@ CourseMatchAI uses AWS-powered GenAI to automatically:
 pip install -r requirements.txt
 streamlit run app_fixed.py --server.port 8517
 ```
+
+## Contributors:
+Divit Purwar, Abhiram Godavarthy, Benjamin Qiao, Arya Somasundaram
