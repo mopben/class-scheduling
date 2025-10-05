@@ -2,7 +2,7 @@ import streamlit as st
 import json
 
 # loading JSON placeholder data
-with open('placeholder.json', 'r') as file:
+with open('Data/placeholder.json', 'r') as file:
     data = json.load(file)
 
 # loading external HTML/CSS
