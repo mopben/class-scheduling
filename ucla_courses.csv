@@ -1,0 +1,284 @@
+course_code,course_title,description,days,start_time,end_time,GE,difficulty
+COM SCI 188,Ethics in Artificial Intelligence,"Explores ethical implications of AI including privacy, bias, and accountability.",['MWF'],13:00,14:00,Society and Culture,3
+LING 20,Introduction to Linguistic Analysis,"Structure of human language: phonetics, morphology, syntax, semantics.",['TuTh'],15:00,16:30,Foundations of Scientific Inquiry,2
+COG SCI 1,Introduction to Cognitive Science,"Overview of cognitive processes, perception, memory, and language.",['TuTh'],09:00,10:30,Science & Society,2
+ANTHRO 8,Intro to Physics,An introductory course covering the fundamentals of creative design.,['F'],08:00,09:00,Upper Division,5
+PHYS 155,Intro to Anthropology,An introductory course covering the fundamentals of creative design.,['Th'],16:00,17:30,Science,5
+EE 46,Intro to Art History,An introductory course covering the fundamentals of data analysis.,['M'],17:00,18:30,Arts,5
+COG SCI 169,Intro to AI,An introductory course covering the fundamentals of cognitive systems.,['MWF'],10:00,11:00,Foundations of Scientific Inquiry,2
+CHEM 182,Intro to Neuroscience,An introductory course covering the fundamentals of global societies.,['M'],17:00,18:30,Foundations of Scientific Inquiry,1
+EE 136,Intro to Music Theory,An introductory course covering the fundamentals of quantitative reasoning.,['MWF'],16:00,17:30,Foundations of Scientific Inquiry,4
+CHEM 122,Intro to Neuroscience,An introductory course covering the fundamentals of creative design.,['F'],16:00,17:30,Arts,4
+INFO 100,Intro to Networks,An introductory course covering the fundamentals of creative design.,['M'],16:00,17:30,Humanities,5
+ENG 77,Intro to Environmental Science,An introductory course covering the fundamentals of global societies.,['MW'],10:00,11:00,Foundations of Scientific Inquiry,2
+ECON 134,Intro to Ethics,An introductory course covering the fundamentals of quantitative reasoning.,['MW'],12:00,13:00,Arts,1
+DESMA 8,Intro to Psychology,An introductory course covering the fundamentals of machine learning.,['M'],10:00,11:00,Arts,2
+MUSIC 176,Intro to AI,An introductory course covering the fundamentals of human interaction.,['Tu'],11:00,12:30,Society and Culture,5
+INFO 47,Intro to Psychology,An introductory course covering the fundamentals of global societies.,['MWF'],11:00,12:30,Science,3
+STAT 7,Intro to Communication,An introductory course covering the fundamentals of global societies.,['MWF'],09:30,11:00,Science & Society,5
+SPAN 133,Intro to Statistics,An introductory course covering the fundamentals of cognitive systems.,['M'],10:00,11:00,Science,3
+MUSIC 150,Intro to AI,An introductory course covering the fundamentals of language structure.,['MWF'],11:00,12:30,Science & Society,3
+ANTHRO 197,Intro to Ethics,An introductory course covering the fundamentals of human interaction.,['MWF'],16:00,17:30,Social Analysis,5
+EE 155,Intro to Philosophy,An introductory course covering the fundamentals of human interaction.,['TuTh'],09:00,10:00,Science,4
+MUSIC 125,Intro to Cognitive Systems,An introductory course covering the fundamentals of global societies.,['Tu'],13:00,14:00,Arts,5
+COM SCI 185,Intro to Anthropology,An introductory course covering the fundamentals of philosophical thought.,['MWF'],12:00,13:00,Quantitative Reasoning,1
+SOC 83,Intro to Environmental Science,An introductory course covering the fundamentals of global societies.,['F'],10:00,11:00,Humanities,5
+EE 32,Intro to Programming,An introductory course covering the fundamentals of philosophical thought.,['M'],08:00,09:00,Humanities,1
+LING 32,Intro to Cognitive Systems,An introductory course covering the fundamentals of language structure.,['Tu'],15:00,16:30,Technical Elective,3
+ENG 165,Intro to Statistics,An introductory course covering the fundamentals of creative design.,['TuTh'],13:00,14:00,Upper Division,3
+POLI SCI 107,Intro to Design,An introductory course covering the fundamentals of environmental studies.,['Th'],17:00,18:30,Upper Division,4
+HIST 43,Intro to Programming,An introductory course covering the fundamentals of global societies.,['M'],15:00,16:30,Science & Society,1
+PHIL 147,Intro to Art History,An introductory course covering the fundamentals of philosophical thought.,['Th'],14:00,15:00,Foundations of Scientific Inquiry,2
+STAT 170,Intro to Neuroscience,An introductory course covering the fundamentals of quantitative reasoning.,['F'],10:00,11:00,Science & Society,5
+SOC 59,Intro to Networks,An introductory course covering the fundamentals of environmental studies.,['MWF'],13:00,14:00,Quantitative Reasoning,5
+LING 164,Intro to Anthropology,An introductory course covering the fundamentals of human interaction.,['TuTh'],14:00,15:00,Social Analysis,2
+EE 71,Intro to Art History,An introductory course covering the fundamentals of data analysis.,['F'],09:00,10:00,Upper Division,4
+HIST 78,Intro to Economics,An introductory course covering the fundamentals of human interaction.,['Th'],11:00,12:30,Society and Culture,1
+EE 105,Intro to Cognitive Systems,An introductory course covering the fundamentals of data analysis.,['Th'],14:00,15:00,Quantitative Reasoning,3
+ENG 184,Intro to Statistics,An introductory course covering the fundamentals of creative design.,['TuTh'],14:00,15:00,Social Analysis,4
+ANTHRO 186,Intro to Statistics,An introductory course covering the fundamentals of global societies.,['MWF'],15:00,16:30,Science,3
+EE 134,Intro to Anthropology,An introductory course covering the fundamentals of creative design.,['M'],13:00,14:00,Technical Elective,5
+ENG 83,Intro to Anthropology,An introductory course covering the fundamentals of data analysis.,['F'],12:00,13:00,Foundations of Scientific Inquiry,3
+PHYS 151,Intro to Ethics,An introductory course covering the fundamentals of creative design.,['F'],14:00,15:00,Science & Society,2
+DESMA 128,Intro to Data Science,An introductory course covering the fundamentals of cognitive systems.,['MWF'],16:00,17:30,Technical Elective,2
+DATA 5,Intro to Psychology,An introductory course covering the fundamentals of philosophical thought.,['Th'],16:00,17:30,Technical Elective,2
+DATA 72,Intro to Physics,An introductory course covering the fundamentals of human interaction.,['M'],08:00,09:00,Humanities,3
+ENG 124,Intro to Philosophy,An introductory course covering the fundamentals of cognitive systems.,['M'],11:00,12:30,Quantitative Reasoning,1
+PHYS 75,Intro to Music Theory,An introductory course covering the fundamentals of quantitative reasoning.,['F'],15:00,16:30,Technical Elective,2
+SPAN 145,Intro to Music Theory,An introductory course covering the fundamentals of machine learning.,['TuTh'],09:30,11:00,Technical Elective,2
+ANTHRO 124,Intro to Statistics,An introductory course covering the fundamentals of quantitative reasoning.,['Th'],12:00,13:00,Humanities,5
+MATH 165,Intro to Philosophy,An introductory course covering the fundamentals of creative design.,['MW'],09:00,10:00,Upper Division,2
+CHEM 139,Intro to Communication,An introductory course covering the fundamentals of cognitive systems.,['TuTh'],15:00,16:30,Humanities,1
+ENG 18,Intro to Programming,An introductory course covering the fundamentals of environmental studies.,['M'],16:00,17:30,Quantitative Reasoning,3
+DATA 44,Intro to Communication,An introductory course covering the fundamentals of language structure.,['TuTh'],13:00,14:00,Science & Society,5
+MUSIC 179,Intro to Communication,An introductory course covering the fundamentals of quantitative reasoning.,['Tu'],10:00,11:00,Upper Division,3
+HIST 197,Intro to Cognitive Systems,An introductory course covering the fundamentals of global societies.,['MW'],08:00,09:00,Humanities,5
+SPAN 15,Intro to AI,An introductory course covering the fundamentals of environmental studies.,['Th'],13:00,14:00,Science & Society,5
+CHEM 128,Intro to Anthropology,An introductory course covering the fundamentals of quantitative reasoning.,['M'],17:00,18:30,Science,2
+BIO 85,Intro to Philosophy,An introductory course covering the fundamentals of data analysis.,['MWF'],17:00,18:30,Foundations of Scientific Inquiry,4
+MUSIC 109,Intro to Environmental Science,An introductory course covering the fundamentals of machine learning.,['MW'],17:00,18:30,Society and Culture,1
+LING 163,Intro to Programming,An introductory course covering the fundamentals of environmental studies.,['MWF'],15:00,16:30,Science & Society,5
+ECON 58,Intro to Physics,An introductory course covering the fundamentals of philosophical thought.,['MWF'],11:00,12:30,Technical Elective,4
+GEOG 49,Intro to Programming,An introductory course covering the fundamentals of language structure.,['TuTh'],11:00,12:30,Technical Elective,3
+ART 65,Intro to Economics,An introductory course covering the fundamentals of human interaction.,['TuTh'],16:00,17:30,Technical Elective,4
+ENG 197,Intro to Ethics,An introductory course covering the fundamentals of data analysis.,['TuTh'],14:00,15:00,Humanities,4
+CHEM 21,Intro to Visual Arts,An introductory course covering the fundamentals of global societies.,['M'],14:00,15:00,Technical Elective,3
+ART 151,Intro to Neuroscience,An introductory course covering the fundamentals of language structure.,['MW'],16:00,17:30,Technical Elective,2
+POLI SCI 140,Intro to Physics,An introductory course covering the fundamentals of philosophical thought.,['TuTh'],15:00,16:30,Society and Culture,3
+MUSIC 172,Intro to Ethics,An introductory course covering the fundamentals of philosophical thought.,['Tu'],09:30,11:00,Society and Culture,1
+COG SCI 90,Intro to Philosophy,An introductory course covering the fundamentals of human interaction.,['MW'],14:00,15:00,Upper Division,2
+ART 97,Intro to Neuroscience,An introductory course covering the fundamentals of machine learning.,['M'],16:00,17:30,Technical Elective,4
+SPAN 30,Intro to Networks,An introductory course covering the fundamentals of human interaction.,['Tu'],16:00,17:30,Quantitative Reasoning,3
+DATA 174,Intro to Neuroscience,An introductory course covering the fundamentals of machine learning.,['MWF'],15:00,16:30,Science & Society,5
+PHYS 131,Intro to Physics,An introductory course covering the fundamentals of creative design.,['TuTh'],12:00,13:00,Social Analysis,2
+COM SCI 22,Intro to Psychology,An introductory course covering the fundamentals of creative design.,['MW'],12:00,13:00,Technical Elective,2
+ART 69,Intro to Psychology,An introductory course covering the fundamentals of language structure.,['MW'],08:00,09:00,Science & Society,5
+SOC 168,Intro to Cognitive Systems,An introductory course covering the fundamentals of quantitative reasoning.,['MWF'],14:00,15:00,Science,1
+COG SCI 152,Intro to Machine Learning,An introductory course covering the fundamentals of data analysis.,['MWF'],13:00,14:00,Upper Division,1
+ENG 101,Intro to Statistics,An introductory course covering the fundamentals of quantitative reasoning.,['MWF'],16:00,17:30,Upper Division,4
+DATA 135,Intro to Physics,An introductory course covering the fundamentals of language structure.,['F'],11:00,12:30,Technical Elective,5
+POLI SCI 176,Intro to Communication,An introductory course covering the fundamentals of data analysis.,['MWF'],11:00,12:30,Arts,1
+PHIL 72,Intro to Ethics,An introductory course covering the fundamentals of language structure.,['Th'],08:00,09:00,Science,1
+SPAN 182,Intro to AI,An introductory course covering the fundamentals of environmental studies.,['MWF'],10:00,11:00,Science & Society,1
+POLI SCI 160,Intro to Environmental Science,An introductory course covering the fundamentals of creative design.,['MW'],17:00,18:30,Arts,1
+DATA 56,Intro to Cognitive Systems,An introductory course covering the fundamentals of environmental studies.,['M'],12:00,13:00,Arts,4
+SPAN 95,Intro to Networks,An introductory course covering the fundamentals of creative design.,['MWF'],11:00,12:30,Society and Culture,1
+SPAN 109,Intro to Communication,An introductory course covering the fundamentals of quantitative reasoning.,['M'],09:30,11:00,Quantitative Reasoning,2
+HIST 188,Intro to Environmental Science,An introductory course covering the fundamentals of machine learning.,['MWF'],17:00,18:30,Social Analysis,4
+ANTHRO 192,Intro to AI,An introductory course covering the fundamentals of philosophical thought.,['TuTh'],12:00,13:00,Quantitative Reasoning,4
+ENG 197,Intro to Music Theory,An introductory course covering the fundamentals of philosophical thought.,['MWF'],16:00,17:30,Humanities,3
+ENV S 55,Intro to Anthropology,An introductory course covering the fundamentals of language structure.,['Tu'],09:30,11:00,Humanities,4
+DESMA 152,Intro to Visual Arts,An introductory course covering the fundamentals of machine learning.,['Tu'],09:00,10:00,Science,2
+ART 93,Intro to Environmental Science,An introductory course covering the fundamentals of human interaction.,['Th'],13:00,14:00,Science & Society,2
+HIST 63,Intro to Environmental Science,An introductory course covering the fundamentals of creative design.,['MW'],15:00,16:30,Social Analysis,2
+COM SCI 69,Intro to Programming,An introductory course covering the fundamentals of creative design.,['MW'],09:00,10:00,Foundations of Scientific Inquiry,2
+INFO 137,Intro to Data Science,An introductory course covering the fundamentals of data analysis.,['M'],13:00,14:00,Arts,4
+LING 61,Intro to Statistics,An introductory course covering the fundamentals of philosophical thought.,['MW'],16:00,17:30,Humanities,4
+BIO 153,Intro to Machine Learning,An introductory course covering the fundamentals of data analysis.,['TuTh'],11:00,12:30,Science,2
+DESMA 131,Intro to Communication,An introductory course covering the fundamentals of global societies.,['M'],13:00,14:00,Humanities,5
+ART 91,Intro to AI,An introductory course covering the fundamentals of creative design.,['M'],15:00,16:30,Upper Division,3
+DATA 127,Intro to Music Theory,An introductory course covering the fundamentals of human interaction.,['M'],15:00,16:30,Technical Elective,1
+INFO 124,Intro to Cognitive Systems,An introductory course covering the fundamentals of environmental studies.,['M'],17:00,18:30,Science,3
+PSYCH 90,Intro to Psychology,An introductory course covering the fundamentals of global societies.,['MW'],10:00,11:00,Quantitative Reasoning,2
+POLI SCI 57,Intro to Communication,An introductory course covering the fundamentals of language structure.,['Tu'],09:00,10:00,Society and Culture,4
+HIST 55,Intro to Environmental Science,An introductory course covering the fundamentals of global societies.,['F'],14:00,15:00,Foundations of Scientific Inquiry,5
+ECON 153,Intro to Machine Learning,An introductory course covering the fundamentals of human interaction.,['Tu'],09:30,11:00,Quantitative Reasoning,3
+CHEM 149,Intro to Psychology,An introductory course covering the fundamentals of cognitive systems.,['MW'],17:00,18:30,Quantitative Reasoning,5
+ANTHRO 174,Intro to Visual Arts,An introductory course covering the fundamentals of philosophical thought.,['F'],16:00,17:30,Society and Culture,5
+ENG 143,Intro to Networks,An introductory course covering the fundamentals of quantitative reasoning.,['Tu'],10:00,11:00,Technical Elective,5
+PSYCH 71,Intro to Cognitive Systems,An introductory course covering the fundamentals of philosophical thought.,['Th'],11:00,12:30,Society and Culture,1
+INFO 96,Intro to Art History,An introductory course covering the fundamentals of cognitive systems.,['Th'],16:00,17:30,Humanities,4
+POLI SCI 187,Intro to Psychology,An introductory course covering the fundamentals of cognitive systems.,['MWF'],16:00,17:30,Social Analysis,3
+BIO 137,Intro to Visual Arts,An introductory course covering the fundamentals of creative design.,['F'],12:00,13:00,Society and Culture,3
+MATH 45,Intro to Design,An introductory course covering the fundamentals of data analysis.,['MWF'],12:00,13:00,Science,5
+DESMA 13,Intro to AI,An introductory course covering the fundamentals of global societies.,['Tu'],16:00,17:30,Society and Culture,2
+DESMA 168,Intro to Visual Arts,An introductory course covering the fundamentals of human interaction.,['F'],08:00,09:00,Technical Elective,2
+POLI SCI 81,Intro to Physics,An introductory course covering the fundamentals of creative design.,['MW'],09:00,10:00,Social Analysis,4
+CHEM 70,Intro to Machine Learning,An introductory course covering the fundamentals of philosophical thought.,['TuTh'],10:00,11:00,Humanities,3
+LING 194,Intro to Visual Arts,An introductory course covering the fundamentals of language structure.,['MW'],14:00,15:00,Humanities,1
+COM SCI 59,Intro to Data Science,An introductory course covering the fundamentals of philosophical thought.,['F'],15:00,16:30,Arts,3
+COM SCI 36,Intro to Machine Learning,An introductory course covering the fundamentals of philosophical thought.,['F'],14:00,15:00,Quantitative Reasoning,5
+DATA 2,Intro to Economics,An introductory course covering the fundamentals of environmental studies.,['Tu'],09:30,11:00,Technical Elective,2
+ECON 41,Intro to Art History,An introductory course covering the fundamentals of machine learning.,['MW'],15:00,16:30,Society and Culture,2
+EE 181,Intro to Machine Learning,An introductory course covering the fundamentals of environmental studies.,['TuTh'],09:00,10:00,Technical Elective,4
+ANTHRO 143,Intro to Art History,An introductory course covering the fundamentals of environmental studies.,['MW'],09:00,10:00,Quantitative Reasoning,3
+MUSIC 189,Intro to Art History,An introductory course covering the fundamentals of philosophical thought.,['F'],14:00,15:00,Quantitative Reasoning,2
+DESMA 76,Intro to Music Theory,An introductory course covering the fundamentals of language structure.,['F'],13:00,14:00,Science & Society,5
+INFO 95,Intro to Programming,An introductory course covering the fundamentals of environmental studies.,['MWF'],16:00,17:30,Humanities,1
+MUSIC 14,Intro to Environmental Science,An introductory course covering the fundamentals of creative design.,['Tu'],08:00,09:00,Arts,3
+SOC 98,Intro to Networks,An introductory course covering the fundamentals of philosophical thought.,['MW'],09:30,11:00,Quantitative Reasoning,2
+DESMA 108,Intro to Cognitive Systems,An introductory course covering the fundamentals of global societies.,['M'],17:00,18:30,Technical Elective,1
+MATH 142,Intro to Neuroscience,An introductory course covering the fundamentals of human interaction.,['F'],08:00,09:00,Science & Society,1
+PSYCH 77,Intro to Statistics,An introductory course covering the fundamentals of philosophical thought.,['MW'],16:00,17:30,Society and Culture,3
+LING 77,Intro to Physics,An introductory course covering the fundamentals of language structure.,['Tu'],10:00,11:00,Arts,1
+COM SCI 178,Intro to AI,An introductory course covering the fundamentals of philosophical thought.,['TuTh'],08:00,09:00,Foundations of Scientific Inquiry,1
+GEOG 34,Intro to Statistics,An introductory course covering the fundamentals of cognitive systems.,['M'],16:00,17:30,Upper Division,5
+EE 87,Intro to Music Theory,An introductory course covering the fundamentals of global societies.,['MWF'],16:00,17:30,Social Analysis,4
+ART 47,Intro to Philosophy,An introductory course covering the fundamentals of cognitive systems.,['Th'],10:00,11:00,Science & Society,3
+POLI SCI 121,Intro to Ethics,An introductory course covering the fundamentals of environmental studies.,['MW'],14:00,15:00,Science,2
+ENV S 175,Intro to Physics,An introductory course covering the fundamentals of global societies.,['MWF'],09:00,10:00,Science & Society,1
+MATH 182,Intro to Networks,An introductory course covering the fundamentals of quantitative reasoning.,['MW'],09:00,10:00,Humanities,4
+LING 147,Intro to Psychology,An introductory course covering the fundamentals of creative design.,['TuTh'],17:00,18:30,Technical Elective,4
+MUSIC 177,Intro to Design,An introductory course covering the fundamentals of global societies.,['MWF'],16:00,17:30,Quantitative Reasoning,2
+BIO 44,Intro to Ethics,An introductory course covering the fundamentals of data analysis.,['Th'],09:30,11:00,Social Analysis,3
+BIO 187,Intro to Neuroscience,An introductory course covering the fundamentals of environmental studies.,['F'],13:00,14:00,Upper Division,3
+MATH 150,Intro to AI,An introductory course covering the fundamentals of global societies.,['M'],08:00,09:00,Science & Society,3
+LING 181,Intro to Philosophy,An introductory course covering the fundamentals of cognitive systems.,['MWF'],09:00,10:00,Foundations of Scientific Inquiry,3
+BIO 73,Intro to Philosophy,An introductory course covering the fundamentals of data analysis.,['Tu'],14:00,15:00,Science,5
+SPAN 12,Intro to Art History,An introductory course covering the fundamentals of global societies.,['M'],10:00,11:00,Quantitative Reasoning,3
+GEOG 152,Intro to Communication,An introductory course covering the fundamentals of machine learning.,['Th'],11:00,12:30,Arts,3
+CHEM 106,Intro to Philosophy,An introductory course covering the fundamentals of data analysis.,['MW'],10:00,11:00,Science,3
+ENV S 81,Intro to Art History,An introductory course covering the fundamentals of global societies.,['F'],09:30,11:00,Technical Elective,4
+INFO 58,Intro to Visual Arts,An introductory course covering the fundamentals of global societies.,['M'],13:00,14:00,Quantitative Reasoning,3
+COM SCI 81,Intro to Cognitive Systems,An introductory course covering the fundamentals of human interaction.,['Tu'],11:00,12:30,Upper Division,1
+DATA 120,Intro to Machine Learning,An introductory course covering the fundamentals of human interaction.,['M'],11:00,12:30,Social Analysis,5
+STAT 95,Intro to Statistics,An introductory course covering the fundamentals of language structure.,['MW'],17:00,18:30,Science,3
+ECON 12,Intro to Neuroscience,An introductory course covering the fundamentals of cognitive systems.,['F'],13:00,14:00,Technical Elective,3
+EE 24,Intro to Design,An introductory course covering the fundamentals of philosophical thought.,['Tu'],11:00,12:30,Foundations of Scientific Inquiry,3
+LING 161,Intro to Networks,An introductory course covering the fundamentals of language structure.,['Th'],09:30,11:00,Quantitative Reasoning,5
+SOC 171,Intro to Anthropology,An introductory course covering the fundamentals of machine learning.,['Th'],16:00,17:30,Science & Society,4
+SPAN 153,Intro to Philosophy,An introductory course covering the fundamentals of human interaction.,['MW'],09:30,11:00,Science,5
+ENV S 97,Intro to Networks,An introductory course covering the fundamentals of environmental studies.,['F'],16:00,17:30,Science,5
+COG SCI 47,Intro to Ethics,An introductory course covering the fundamentals of language structure.,['MWF'],14:00,15:00,Technical Elective,2
+PHIL 79,Intro to Networks,An introductory course covering the fundamentals of philosophical thought.,['Th'],17:00,18:30,Humanities,3
+STAT 56,Intro to Neuroscience,An introductory course covering the fundamentals of quantitative reasoning.,['Th'],13:00,14:00,Society and Culture,2
+ART 186,Intro to Philosophy,An introductory course covering the fundamentals of machine learning.,['MW'],14:00,15:00,Foundations of Scientific Inquiry,2
+PSYCH 139,Intro to Statistics,An introductory course covering the fundamentals of environmental studies.,['TuTh'],10:00,11:00,Social Analysis,4
+CHEM 157,Intro to Environmental Science,An introductory course covering the fundamentals of data analysis.,['Th'],17:00,18:30,Humanities,3
+SOC 122,Intro to Music Theory,An introductory course covering the fundamentals of quantitative reasoning.,['Th'],17:00,18:30,Quantitative Reasoning,1
+COM SCI 46,Intro to Neuroscience,An introductory course covering the fundamentals of global societies.,['TuTh'],09:30,11:00,Quantitative Reasoning,2
+ANTHRO 158,Intro to Philosophy,An introductory course covering the fundamentals of quantitative reasoning.,['M'],09:00,10:00,Arts,5
+PHIL 176,Intro to Philosophy,An introductory course covering the fundamentals of data analysis.,['M'],12:00,13:00,Science & Society,4
+ENG 55,Intro to Design,An introductory course covering the fundamentals of language structure.,['Tu'],15:00,16:30,Society and Culture,5
+DESMA 114,Intro to Programming,An introductory course covering the fundamentals of human interaction.,['TuTh'],10:00,11:00,Humanities,3
+ART 101,Intro to Ethics,An introductory course covering the fundamentals of language structure.,['MWF'],09:30,11:00,Science & Society,4
+ECON 117,Intro to Data Science,An introductory course covering the fundamentals of philosophical thought.,['TuTh'],08:00,09:00,Upper Division,1
+MUSIC 81,Intro to Machine Learning,An introductory course covering the fundamentals of global societies.,['Th'],17:00,18:30,Society and Culture,2
+SPAN 14,Intro to Visual Arts,An introductory course covering the fundamentals of quantitative reasoning.,['MW'],13:00,14:00,Quantitative Reasoning,1
+INFO 16,Intro to Environmental Science,An introductory course covering the fundamentals of human interaction.,['F'],13:00,14:00,Science,5
+ART 28,Intro to Psychology,An introductory course covering the fundamentals of human interaction.,['MWF'],09:00,10:00,Technical Elective,5
+PHIL 31,Intro to AI,An introductory course covering the fundamentals of data analysis.,['Th'],16:00,17:30,Foundations of Scientific Inquiry,1
+SOC 184,Intro to Design,An introductory course covering the fundamentals of data analysis.,['Th'],16:00,17:30,Society and Culture,1
+PHIL 55,Intro to Data Science,An introductory course covering the fundamentals of data analysis.,['TuTh'],09:30,11:00,Quantitative Reasoning,4
+GEOG 41,Intro to Ethics,An introductory course covering the fundamentals of global societies.,['Th'],16:00,17:30,Technical Elective,5
+MUSIC 7,Intro to Ethics,An introductory course covering the fundamentals of data analysis.,['MWF'],16:00,17:30,Society and Culture,4
+ENV S 60,Advanced AI,"A deeper exploration of advanced ai, including theory, methods, and applications.",['Tu'],09:30,11:00,Quantitative Reasoning,2
+MUSIC 12,Machine Learning,"A deeper exploration of machine learning, including theory, methods, and applications.",['TuTh'],09:00,10:00,Technical Elective,3
+SPAN 260,Quantum Computing,"A deeper exploration of quantum computing, including theory, methods, and applications.",['F'],10:00,11:00,Society and Culture,3
+BIO 165,International Law,"A deeper exploration of international law, including theory, methods, and applications.",['MWF'],15:00,16:30,Foundations of Scientific Inquiry,4
+SOC 108,Neural Networks,"A deeper exploration of neural networks, including theory, methods, and applications.",['Th'],15:00,16:30,Humanities,5
+SOC 102,Organic Chemistry,"A deeper exploration of organic chemistry, including theory, methods, and applications.",['Th'],10:00,11:00,Arts,3
+SPAN 138,Advanced AI,"A deeper exploration of advanced ai, including theory, methods, and applications.",['TuTh'],10:00,11:00,Foundations of Scientific Inquiry,2
+CHEM 246,Biochemistry,"A deeper exploration of biochemistry, including theory, methods, and applications.",['MWF'],09:00,10:00,Society and Culture,5
+ECON 285,Organic Chemistry,"A deeper exploration of organic chemistry, including theory, methods, and applications.",['Tu'],08:00,09:00,Science & Society,5
+COG SCI 60,Comparative Religion,"A deeper exploration of comparative religion, including theory, methods, and applications.",['MW'],16:00,17:30,Science,3
+CHEM 280,Biochemistry,"A deeper exploration of biochemistry, including theory, methods, and applications.",['Tu'],08:00,09:00,Quantitative Reasoning,3
+EE 6,Bioinformatics,"A deeper exploration of bioinformatics, including theory, methods, and applications.",['TuTh'],09:00,10:00,Social Analysis,2
+PHIL 36,Data Visualization,"A deeper exploration of data visualization, including theory, methods, and applications.",['MW'],13:00,14:00,Upper Division,2
+PHYS 61,Neural Networks,"A deeper exploration of neural networks, including theory, methods, and applications.",['Th'],09:30,11:00,Foundations of Scientific Inquiry,5
+PHIL 60,Game Theory,"A deeper exploration of game theory, including theory, methods, and applications.",['TuTh'],12:00,13:00,Science,2
+ECON 19,Cultural Theory,"A deeper exploration of cultural theory, including theory, methods, and applications.",['TuTh'],16:00,17:30,Quantitative Reasoning,4
+ART 161,Cognitive Robotics,"A deeper exploration of cognitive robotics, including theory, methods, and applications.",['Th'],15:00,16:30,Science,2
+MUSIC 197,Climate Modeling,"A deeper exploration of climate modeling, including theory, methods, and applications.",['Tu'],11:00,12:30,Science & Society,5
+COG SCI 2,Behavioral Economics,"A deeper exploration of behavioral economics, including theory, methods, and applications.",['Th'],10:00,11:00,Society and Culture,4
+ECON 38,Digital Media,"A deeper exploration of digital media, including theory, methods, and applications.",['MWF'],10:00,11:00,Upper Division,2
+PSYCH 4,Modern Literature,"A deeper exploration of modern literature, including theory, methods, and applications.",['TuTh'],15:00,16:30,Science,2
+PSYCH 155,Artificial Life,"A deeper exploration of artificial life, including theory, methods, and applications.",['Th'],14:00,15:00,Quantitative Reasoning,5
+EE 227,Urban Planning,"A deeper exploration of urban planning, including theory, methods, and applications.",['MW'],08:00,09:00,Society and Culture,2
+POLI SCI 140,Cultural Theory,"A deeper exploration of cultural theory, including theory, methods, and applications.",['TuTh'],15:00,16:30,Social Analysis,3
+COG SCI 37,Quantum Computing,"A deeper exploration of quantum computing, including theory, methods, and applications.",['Th'],17:00,18:30,Science,3
+SOC 134,Cognitive Robotics,"A deeper exploration of cognitive robotics, including theory, methods, and applications.",['Th'],09:30,11:00,Society and Culture,5
+COG SCI 50,Robotics,"A deeper exploration of robotics, including theory, methods, and applications.",['MW'],11:00,12:30,Science,4
+COG SCI 258,Quantum Computing,"A deeper exploration of quantum computing, including theory, methods, and applications.",['MW'],16:00,17:30,Arts,3
+DESMA 24,Ethical Hacking,"A deeper exploration of ethical hacking, including theory, methods, and applications.",['F'],14:00,15:00,Humanities,4
+MUSIC 54,Digital Media,"A deeper exploration of digital media, including theory, methods, and applications.",['TuTh'],13:00,14:00,Quantitative Reasoning,4
+PHYS 168,International Law,"A deeper exploration of international law, including theory, methods, and applications.",['M'],14:00,15:00,Science & Society,5
+MUSIC 73,Climate Modeling,"A deeper exploration of climate modeling, including theory, methods, and applications.",['M'],15:00,16:30,Social Analysis,4
+COG SCI 148,Astrophysics,"A deeper exploration of astrophysics, including theory, methods, and applications.",['F'],14:00,15:00,Social Analysis,4
+PHIL 105,International Law,"A deeper exploration of international law, including theory, methods, and applications.",['F'],11:00,12:30,Humanities,2
+MUSIC 98,International Law,"A deeper exploration of international law, including theory, methods, and applications.",['Tu'],10:00,11:00,Society and Culture,4
+ENG 179,Network Security,"A deeper exploration of network security, including theory, methods, and applications.",['M'],14:00,15:00,Society and Culture,4
+DATA 94,Artificial Life,"A deeper exploration of artificial life, including theory, methods, and applications.",['Th'],12:00,13:00,Humanities,3
+POLI SCI 151,Comparative Religion,"A deeper exploration of comparative religion, including theory, methods, and applications.",['MWF'],10:00,11:00,Society and Culture,4
+PSYCH 49,Machine Learning,"A deeper exploration of machine learning, including theory, methods, and applications.",['M'],10:00,11:00,Technical Elective,5
+POLI SCI 35,Game Theory,"A deeper exploration of game theory, including theory, methods, and applications.",['Tu'],15:00,16:30,Arts,3
+GEOG 204,Cultural Theory,"A deeper exploration of cultural theory, including theory, methods, and applications.",['MWF'],15:00,16:30,Humanities,3
+POLI SCI 73,Climate Modeling,"A deeper exploration of climate modeling, including theory, methods, and applications.",['Tu'],15:00,16:30,Foundations of Scientific Inquiry,5
+ECON 20,Data Visualization,"A deeper exploration of data visualization, including theory, methods, and applications.",['Th'],15:00,16:30,Foundations of Scientific Inquiry,3
+INFO 163,Urban Planning,"A deeper exploration of urban planning, including theory, methods, and applications.",['F'],10:00,11:00,Upper Division,4
+SOC 253,Advanced Calculus,"A deeper exploration of advanced calculus, including theory, methods, and applications.",['M'],14:00,15:00,Quantitative Reasoning,5
+HIST 123,Global Politics,"A deeper exploration of global politics, including theory, methods, and applications.",['M'],13:00,14:00,Upper Division,2
+ANTHRO 258,Global Politics,"A deeper exploration of global politics, including theory, methods, and applications.",['Tu'],09:00,10:00,Quantitative Reasoning,3
+ANTHRO 164,Global Politics,"A deeper exploration of global politics, including theory, methods, and applications.",['F'],08:00,09:00,Technical Elective,5
+DESMA 161,International Law,"A deeper exploration of international law, including theory, methods, and applications.",['TuTh'],12:00,13:00,Quantitative Reasoning,5
+ENV S 177,Advanced Calculus,"A deeper exploration of advanced calculus, including theory, methods, and applications.",['MW'],15:00,16:30,Arts,5
+PHIL 113,Film Studies,"A deeper exploration of film studies, including theory, methods, and applications.",['Th'],12:00,13:00,Social Analysis,4
+COG SCI 151,Comparative Religion,"A deeper exploration of comparative religion, including theory, methods, and applications.",['TuTh'],13:00,14:00,Humanities,2
+EE 146,Neural Networks,"A deeper exploration of neural networks, including theory, methods, and applications.",['MWF'],08:00,09:00,Quantitative Reasoning,3
+ENV S 217,Neural Networks,"A deeper exploration of neural networks, including theory, methods, and applications.",['MW'],13:00,14:00,Arts,5
+ECON 56,Neural Networks,"A deeper exploration of neural networks, including theory, methods, and applications.",['F'],15:00,16:30,Foundations of Scientific Inquiry,3
+DATA 264,Climate Modeling,"A deeper exploration of climate modeling, including theory, methods, and applications.",['Tu'],09:30,11:00,Science & Society,2
+PHYS 279,Behavioral Economics,"A deeper exploration of behavioral economics, including theory, methods, and applications.",['Th'],12:00,13:00,Foundations of Scientific Inquiry,3
+ART 10,Digital Media,"A deeper exploration of digital media, including theory, methods, and applications.",['MWF'],12:00,13:00,Science & Society,3
+INFO 247,Sociolinguistics,"A deeper exploration of sociolinguistics, including theory, methods, and applications.",['F'],09:30,11:00,Science,4
+COM SCI 280,Philosophy of Mind,"A deeper exploration of philosophy of mind, including theory, methods, and applications.",['Th'],12:00,13:00,Arts,4
+GEOG 247,Climate Modeling,"A deeper exploration of climate modeling, including theory, methods, and applications.",['TuTh'],16:00,17:30,Science & Society,2
+ANTHRO 84,Human-Computer Interaction,"A deeper exploration of human-computer interaction, including theory, methods, and applications.",['F'],14:00,15:00,Foundations of Scientific Inquiry,2
+POLI SCI 248,Neural Networks,"A deeper exploration of neural networks, including theory, methods, and applications.",['Tu'],09:00,10:00,Arts,5
+EE 296,Comparative Religion,"A deeper exploration of comparative religion, including theory, methods, and applications.",['TuTh'],11:00,12:30,Society and Culture,3
+COG SCI 157,Neural Networks,"A deeper exploration of neural networks, including theory, methods, and applications.",['MW'],15:00,16:30,Arts,4
+ANTHRO 168,Climate Modeling,"A deeper exploration of climate modeling, including theory, methods, and applications.",['MW'],11:00,12:30,Science & Society,4
+LING 265,Astrophysics,"A deeper exploration of astrophysics, including theory, methods, and applications.",['MW'],16:00,17:30,Quantitative Reasoning,4
+ART 123,Biochemistry,"A deeper exploration of biochemistry, including theory, methods, and applications.",['M'],08:00,09:00,Science & Society,3
+DATA 75,Game Theory,"A deeper exploration of game theory, including theory, methods, and applications.",['MWF'],17:00,18:30,Humanities,2
+PHIL 204,Sociolinguistics,"A deeper exploration of sociolinguistics, including theory, methods, and applications.",['Tu'],11:00,12:30,Upper Division,4
+SOC 248,Digital Media,"A deeper exploration of digital media, including theory, methods, and applications.",['F'],11:00,12:30,Arts,5
+ENV S 119,Cultural Theory,"A deeper exploration of cultural theory, including theory, methods, and applications.",['TuTh'],08:00,09:00,Science,2
+ECON 65,Cybersecurity,"A deeper exploration of cybersecurity, including theory, methods, and applications.",['F'],14:00,15:00,Foundations of Scientific Inquiry,2
+POLI SCI 212,Astrophysics,"A deeper exploration of astrophysics, including theory, methods, and applications.",['Tu'],17:00,18:30,Society and Culture,5
+CHEM 101,Astronomy,"A deeper exploration of astronomy, including theory, methods, and applications.",['Th'],09:30,11:00,Science,3
+LING 45,Urban Planning,"A deeper exploration of urban planning, including theory, methods, and applications.",['Tu'],09:00,10:00,Science & Society,5
+BIO 175,Urban Planning,"A deeper exploration of urban planning, including theory, methods, and applications.",['Th'],10:00,11:00,Technical Elective,3
+COM SCI 298,International Law,"A deeper exploration of international law, including theory, methods, and applications.",['F'],16:00,17:30,Technical Elective,5
+BIO 162,Artificial Life,"A deeper exploration of artificial life, including theory, methods, and applications.",['MWF'],17:00,18:30,Arts,3
+SOC 155,Neural Networks,"A deeper exploration of neural networks, including theory, methods, and applications.",['Tu'],10:00,11:00,Humanities,2
+SPAN 144,Sociolinguistics,"A deeper exploration of sociolinguistics, including theory, methods, and applications.",['Tu'],17:00,18:30,Foundations of Scientific Inquiry,5
+COM SCI 207,Data Visualization,"A deeper exploration of data visualization, including theory, methods, and applications.",['F'],12:00,13:00,Humanities,4
+ENV S 177,Artificial Life,"A deeper exploration of artificial life, including theory, methods, and applications.",['Tu'],09:30,11:00,Technical Elective,3
+GEOG 179,Data Visualization,"A deeper exploration of data visualization, including theory, methods, and applications.",['Tu'],17:00,18:30,Upper Division,4
+ENV S 3,Behavioral Economics,"A deeper exploration of behavioral economics, including theory, methods, and applications.",['Tu'],09:00,10:00,Arts,2
+POLI SCI 257,Sociolinguistics,"A deeper exploration of sociolinguistics, including theory, methods, and applications.",['M'],09:00,10:00,Technical Elective,3
+INFO 32,Urban Planning,"A deeper exploration of urban planning, including theory, methods, and applications.",['Tu'],09:30,11:00,Technical Elective,3
+ENV S 278,Organic Chemistry,"A deeper exploration of organic chemistry, including theory, methods, and applications.",['Th'],08:00,09:00,Science & Society,4
+COG SCI 118,Behavioral Economics,"A deeper exploration of behavioral economics, including theory, methods, and applications.",['F'],17:00,18:30,Foundations of Scientific Inquiry,3
+GEOG 134,Behavioral Economics,"A deeper exploration of behavioral economics, including theory, methods, and applications.",['MW'],10:00,11:00,Humanities,5
+COM SCI 193,Organic Chemistry,"A deeper exploration of organic chemistry, including theory, methods, and applications.",['MW'],12:00,13:00,Arts,2
+ENV S 22,Behavioral Economics,"A deeper exploration of behavioral economics, including theory, methods, and applications.",['M'],09:00,10:00,Science,2
+COM SCI 238,Comparative Religion,"A deeper exploration of comparative religion, including theory, methods, and applications.",['TuTh'],13:00,14:00,Upper Division,3
+LING 189,Robotics,"A deeper exploration of robotics, including theory, methods, and applications.",['F'],14:00,15:00,Society and Culture,3
+ANTHRO 263,Game Theory,"A deeper exploration of game theory, including theory, methods, and applications.",['M'],14:00,15:00,Science,2
+MATH 286,Network Security,"A deeper exploration of network security, including theory, methods, and applications.",['TuTh'],12:00,13:00,Upper Division,2
+PSYCH 75,Astrophysics,"A deeper exploration of astrophysics, including theory, methods, and applications.",['F'],08:00,09:00,Foundations of Scientific Inquiry,3
+PHIL 171,Modern Literature,"A deeper exploration of modern literature, including theory, methods, and applications.",['MW'],11:00,12:30,Society and Culture,4
+DATA 204,Astronomy,"A deeper exploration of astronomy, including theory, methods, and applications.",['Th'],17:00,18:30,Society and Culture,4
+LING 88,Ethical Hacking,"A deeper exploration of ethical hacking, including theory, methods, and applications.",['MW'],12:00,13:00,Arts,3
