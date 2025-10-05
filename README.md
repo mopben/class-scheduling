@@ -14,7 +14,6 @@ CourseMatchAI uses AWS-powered GenAI to automatically:
 
 ## AWS Components
 - **Amazon Bedrock**: Natural language understanding and course matching
-- **Amazon Textract**: Document parsing (PDF/Image schedules)
 - **AWS Lambda**: Filtering & ranking logic
 - **Amazon S3**: File storage
 - **Streamlit**: Interactive frontend
